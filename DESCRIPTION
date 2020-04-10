@@ -10,7 +10,10 @@ Description: Given a raster extent or a vector and a potential offset, this
     package can be used to create a raster template to populate with other values.
 Imports: 
     raster
+Suggests:
+    knitr
 License: GPL-2 | GPL-3
 Encoding: UTF-8
 LazyData: true
+VignetteBuilder: knitr
 RoxygenNote: 7.0.2
